@@ -1,0 +1,16 @@
+{
+  "name": "hangul-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "typescript": "^5.5.3"
+  }
+}
